@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         TextView textView = (TextView) findViewById(R.id.tv2);
         int id = getResources().getInteger(R.integer.channel_id);
         textView.setText("渠道 ID2:"+id);
-
+    
     }
 }
