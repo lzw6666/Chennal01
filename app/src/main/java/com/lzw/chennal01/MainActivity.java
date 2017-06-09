@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         TextView textView = (TextView) findViewById(R.id.tv2);
         int id = getResources().getInteger(R.integer.channel_id);
-        textView.setText("渠道 ID:"+id);
+        textView.setText("渠道 ID2:"+id);
+
     }
 }
