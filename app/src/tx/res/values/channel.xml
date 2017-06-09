@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="channel_name">优酷</string>
+    <integer name="channel_id">3</integer>
+</resources>
